@@ -1,0 +1,24 @@
+Thu May 22 11:34:26 IST 2025: Starting Bidirectional File Sync
+Thu May 22 11:35:06 IST 2025: Copied new file images.jpg from deviceA_dir to deviceB_dir
+Thu May 22 11:35:16 IST 2025: Deleted file images.jpg from deviceB_dir (deleted in deviceA_dir)
+Thu May 22 11:35:24 IST 2025: Copied new file images.jpg from deviceA_dir to deviceB_dir
+Thu May 22 11:35:32 IST 2025: Copied new file Opera Snapshot_2025-03-25_175947_APAAR20Circular%20(1).pdf.png from deviceB_dir to deviceA_dir
+Thu May 22 11:35:38 IST 2025: Deleted file Opera Snapshot_2025-03-25_175947_APAAR20Circular%20(1).pdf.png from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 11:35:54 IST 2025: Deleted file images.jpg from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 11:48:28 IST 2025: Starting Bidirectional File Sync
+Thu May 22 11:49:14 IST 2025: Copied new file Predicting-Stock-Markets[1] (1).pptx from deviceA_dir to deviceB_dir
+Thu May 22 11:49:20 IST 2025: Copied new file Opera Snapshot_2025-03-25_175635_APAAR20Circular%20(1).pdf.png from deviceB_dir to deviceA_dir
+Thu May 22 11:49:24 IST 2025: Copied new file Ai course certificate.pdf from deviceA_dir to deviceB_dir
+Thu May 22 11:49:28 IST 2025: Deleted file Predicting-Stock-Markets[1] (1).pptx from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 11:49:32 IST 2025: Deleted file Opera Snapshot_2025-03-25_175635_APAAR20Circular%20(1).pdf.png from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 11:49:36 IST 2025: Deleted file Ai course certificate.pdf from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 11:49:36 IST 2025: Error: deviceA_dir\Ai course certificate.pdf
+Thu May 22 13:18:23 IST 2025: Starting Bidirectional File Sync
+Thu May 22 13:18:53 IST 2025: Copied new file Opera Snapshot_2025-03-25_175635_APAAR20Circular%20(1).pdf.png from deviceA_dir to deviceB_dir
+Thu May 22 13:19:01 IST 2025: Copied new file Ai course certificate.pdf from deviceB_dir to deviceA_dir
+Thu May 22 13:19:01 IST 2025: Copied new file Ai course certificate.pdf from deviceA_dir to deviceB_dir
+Thu May 22 13:19:03 IST 2025: Updated file Ai course certificate.pdf from deviceA_dir to deviceB_dir
+Thu May 22 13:19:09 IST 2025: Deleted file Ai course certificate.pdf from deviceB_dir (deleted in deviceA_dir)
+Thu May 22 13:19:13 IST 2025: Deleted file Opera Snapshot_2025-03-25_175635_APAAR20Circular%20(1).pdf.png from deviceA_dir (deleted in deviceB_dir)
+Thu May 22 13:19:59 IST 2025: Copied new file Opera Snapshot_2025-03-25_175947_APAAR20Circular%20(1).pdf.png from deviceA_dir to deviceB_dir
+Thu May 22 13:20:03 IST 2025: Deleted file Opera Snapshot_2025-03-25_175947_APAAR20Circular%20(1).pdf.png from deviceB_dir (deleted in deviceA_dir)
